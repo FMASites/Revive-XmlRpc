@@ -4,7 +4,7 @@
     "homepage": "https://github.com/Artistan/revive-xmlrpc",
     "type": "library",
     "require": {
-        "phpxmlrpc/phpxmlrpc": "4.3.1",
+        "phpxmlrpc/phpxmlrpc": "4.4.2",
         "illuminate/support": "6.0.*"
     },
     "require-dev": {
