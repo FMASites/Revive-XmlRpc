@@ -4,8 +4,8 @@
     "homepage": "https://github.com/Artistan/revive-xmlrpc",
     "type": "library",
     "require": {
-        "phpxmlrpc/phpxmlrpc": "4.4.2",
-        "illuminate/support": "6.*"
+        "phpxmlrpc/phpxmlrpc": "^4.8",
+        "laravel/framework": "^9.0"
     },
     "require-dev": {
         "victorjonsson/markdowndocs": "1.3.*"
